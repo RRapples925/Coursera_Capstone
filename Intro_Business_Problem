@@ -5,11 +5,3 @@ aims to find. My project is geared to help prospective restaurant owners underst
 and those that have a chance of becoming major hits. This project could also appeal to anyone who is looking to analyze the 
 psycological dynamic of various areas of the city, and what foods they like in relation to one another.
 
-The Foursquare dataset that my project will be based on was created by Dingqi Yang, as a part of a Digital Footprint research 
-paper. It contains data on the various restaurants in the city, as well as information on the number of check-ins, tips, 
-and tags for each restaurant. 
-
-References:
-- Dingqi Yang, Daqing Zhang, Zhiyong Yu and Zhiwen Yu, Fine-Grained Preference-Aware Location Search Leveraging Crowdsourced Digital Footprints from LBSNs. In Proceeding of the 2013 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2013), September 8-12, 2013, in Zurich, Switzerland. 
-- Dingqi Yang, Daqing Zhang, Zhiyong Yu and Zhu Wang, A Sentiment-enhanced Personalized Location Recommendation System. In Proceeding of the 24th ACM Conference on Hypertext and Social Media (HT 2013), 1-3 May, 2013, Paris, France. 
-- Dingqi Yang, Daqing Zhang, Zhiyong Yu, Zhiwen Yu, Djamal Zeghlache. SESAME: Mining User Digital Footprints for Fine-Grained Preference-Aware Social Media Search. ACM Trans. on Internet Technology, (TOIT), 14(4), 28, 2014. 
